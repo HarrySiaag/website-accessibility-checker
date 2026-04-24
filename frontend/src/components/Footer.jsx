@@ -20,7 +20,7 @@ const Footer = () => {
               About
             </a>
             <a 
-              href="https://github.com" 
+              href="https://github.com/HarrySiaag/website-accessibility-checker" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="hover:text-green-400 transition-colors duration-200"
